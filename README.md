@@ -1,4 +1,8 @@
-## Hi there 👋
+## Greetings, I'm Dylan Fuchs
+- I have been coding in Python mainly for a year
+- Web Developer of CheepCards
+- I'm working more and more on Htmls and as well learning new tools of code to scratch my brain
+- Been creating activities and events for people for over 8 years
 
 <!--
 **dylan2fuchs-max/dylan2fuchs-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
