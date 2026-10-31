@@ -3,6 +3,7 @@
 - Web Developer of CheepCards
 - I'm working more and more on Htmls and as well learning new tools of code to scratch my brain
 - Been creating activities and events for people for over 8 years
+- [![Boot.dev Backend Developer Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f83684c-bdd2-4375-b6e5-3d0c9a6846a1.jpeg?v=1793469588)](https://www.boot.dev/certificates/7f83684c-bdd2-4375-b6e5-3d0c9a6846a1)
 
 <!--
 **dylan2fuchs-max/dylan2fuchs-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
