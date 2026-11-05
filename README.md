@@ -1,5 +1,5 @@
 ## Greetings, I'm Dylan Fuchs
-- I have been coding in Python mainly for a year
+- I have been coding in Python mainly for over a year
 - Web Developer of CheepCards
 - I'm working more and more on Htmls and as well learning new tools of code to scratch my brain
 - Been creating activities and events for people for over 8 years
